@@ -1,0 +1,12 @@
+/* 重置所有元素的默认内边距和外边距为0 */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* 设置画布的背景颜色为浅灰色，并使其块级显示，使其在页面中居中 */
+canvas {
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+}
